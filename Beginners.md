@@ -91,7 +91,7 @@ A PowerPoint presentation for an RDF Primer session at TDWG 2013 is [here](http:
 
 [GUID Applicability Statement - Current TDWG Standard](http://www.tdwg.org/standards/150/)  ([click here for PDF viewable via browser](http://bioimages.vanderbilt.edu/pages/guid-applicability-final-2011-01.pdf))
 
-[A Beginner's Guide to Persistent Identifiers](http://www.gbif.org/orc/?doc_id=2428) published by the [Global Biodiversity Information Facility(GBIF)](http://www.gbif.org/)
+[A Beginner's Guide to Persistent Identifiers](https://assets.ctfassets.net/uo17ejk9rkwj/8aIUAbLo0oycyMiM2IKUS/363edf7ab4558460cfe1ef140567450f/persistent_identifiers_guide_en_v1.pdf) published by the [Global Biodiversity Information Facility(GBIF)](http://www.gbif.org/)
 
 [Integrated Digital Biocollections (iDigBio) GUID Statement](https://www.idigbio.org/content/idigbio-guid-statement)
 
